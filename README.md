@@ -11,4 +11,4 @@ The goal of this educational experiment was to find out, whether Machine learnin
 The experiment was successful; the model from SKlearn found a close enough function.
 Moreover I wanted to find the exact same function without sklearn, only with Calculus multivariate derivation.
 With both ways I finally receive a very similar result. However, the pure mathematical way seems a bit too inefficient; somehow there are maybe some optimizations built in sklearn LinearRegressionModel() to find the optimum very fast.
-Anyway, the excel and Jupyter Notebook does what it expects; it shows "What is Machine Learning" in the context of Multiniear Regression.
+Anyway, the excel and Jupyter Notebook does what it expects; it shows "What is Machine Learning" in the context of Multlinear Regression.
